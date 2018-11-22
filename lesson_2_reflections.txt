@@ -46,3 +46,10 @@ out branch, creating a new commit that should contain the functionality of both.
 The representation on the diagram shows that it is a continuation of the main
 branch and the end of the second branch, but also that the main branch has
 undergone a significant change.
+---------------------------------------------------------
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Manual merging forces the user to look at the code and understand what is
+different in each branch; this could be seen as an advantage or a disadvantage.
