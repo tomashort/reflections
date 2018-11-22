@@ -37,3 +37,12 @@ Diagrams provide a visual representation of which branches make up the branch
 structure, and where they connect (i.e. where a branch began and if/where it
 merges).
 ---------------------------------------------------------
+
+What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+The head of the second branch is merged into the head of the currently checked
+out branch, creating a new commit that should contain the functionality of both.
+The representation on the diagram shows that it is a continuation of the main
+branch and the end of the second branch, but also that the main branch has
+undergone a significant change.
