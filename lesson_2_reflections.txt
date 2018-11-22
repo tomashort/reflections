@@ -12,3 +12,9 @@ The staging area is an abstract location containing all files in the working
 directory that are also in the repository, or are intended to become part of
 the repository after the next commit. The staging area allows the user full
 control over what files become part of the repository.
+---------------------------------------------------------
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding all of the files that have been changed as part of the logical changes
+to the staging area before committing, as opposed to committing one file at a time.
