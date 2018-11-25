@@ -11,4 +11,8 @@ Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
 If the project is a collaborative effort between multiple developers, each
-developer might wish to keep their work separate until a certain time
+developer might wish to keep their work separate until a certain time.
+---------------------------------------------------------
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
